@@ -1,0 +1,129 @@
+{
+   
+ "data": [
+  
+      {
+           "id": 24,
+            "file": "http://192.168.100.26:8000/uploads/pdf-files/1528880588wMgzM1.pdf",
+            "filesize": "10 MB",
+            "journal_type": "Daily Eleven",
+            "description": "Description",
+            "image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+            "release_date": "2018-06-26"
+        },
+        {
+            "id": 23,
+            "file": "http://192.168.100.26:8000/uploads/pdf-files/1528880536K6HIIW.pdf",
+            "filesize": "10 MB",
+            "journal_type": "Daily Eleven",
+            "description": "Description",
+            "image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+            "release_date": "2018-06-30"
+        },
+        {
+            "id": 22,
+            "file": "http://192.168.100.26:8000/uploads/pdf-files/1528880507FQA180.pdf",
+            "filesize": "10 MB",
+            "journal_type": "Daily Eleven",
+            "description": "DEscription",
+            "image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+            "release_date": "2018-06-26"
+        },
+        {
+            "id": 21,
+            "file": "http://192.168.100.26:8000/uploads/pdf-files/1528880485dLn6fT.pdf",
+            "filesize": "6.7 MB",
+            "journal_type": "Daily Eleven",
+            "description": "DEscription",
+            "image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+            "release_date": "2018-06-27"
+        },
+        {
+            "id": 20,
+            "file": "http://192.168.100.26:8000/uploads/pdf-files/1528880462uG4z6O.pdf",
+            "filesize": "6.7 MB",
+            "journal_type": "Daily Eleven",
+            "description": "Description",
+            "image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+            "release_date": "2018-06-26"
+        },
+        {
+            "id": 19,
+            "file": "http://192.168.100.26:8000/uploads/pdf-files/1528880410Y1LL5B.pdf",
+            "filesize": "6.7 MB",
+            "journal_type": "Daily Eleven",
+            "description": "Description",
+            "image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+            "release_date": "2018-06-11"
+        },
+        {
+            "id": 18,
+            "file": "http://192.168.100.26:8000/uploads/pdf-files/1528880295OueeWG.pdf",
+            "filesize": "10 MB",
+            "journal_type": "Daily Eleven",
+            "description": "Description",
+            "image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+            "release_date": "2018-06-26"
+        },
+        {
+            "id": 17,
+            "file": "http://192.168.100.26:8000/uploads/pdf-files/1528880262gWOMlQ.pdf",
+            "filesize": "10 MB",
+            "journal_type": "Daily Eleven",
+            "description": "description",
+            "image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+            "release_date": "2018-06-20"
+        },
+        {
+            "id": 16,
+            "file": "http://192.168.100.26:8000/uploads/pdf-files/1528880164YH1jON.pdf",
+            "filesize": "6.7 MB",
+            "journal_type": "Daily Eleven",
+            "description": "Description",
+            "image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+            "release_date": "2018-06-21"
+        },
+        {
+            "id": 15,
+            "file": "http://192.168.100.26:8000/uploads/pdf-files/1528704213kOqAVR.pdf",
+            "filesize": "6.7 MB",
+            "journal_type": "Eleven Sports",
+            "description": "Description",
+            "image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+            "release_date": "2018-06-27"
+        },
+        {
+            "id": 14,
+            "file": "http://192.168.100.26:8000/uploads/pdf-files/1528452228xi6Htl.pdf",
+            "filesize": "10 MB",
+            "journal_type": "First Eleven Sports",
+            "description": "Description",
+            "image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+            "release_date": "2018-06-12"
+        },
+        {
+            "id": 13,
+            "file": "http://192.168.100.26:8000/uploads/pdf-files/1528451005KmUmHe.pdf",
+            "filesize": "10 MB",
+            "journal_type": "First Eleven Sports",
+            "description": "Description",
+            "image_path": "http://microblogging.wingnity.com/JSONParsingTutorial/brad.jpg",
+            "release_date": "2018-06-20"
+        }
+    ],
+    "links": {
+        "first": "http://192.168.100.26:8000/api/pdfs?page=1",
+        "last": "http://192.168.100.26:8000/api/pdfs?page=3",
+        "prev": "http://192.168.100.26:8000/api/pdfs?page=1",
+        "next": "http://192.168.100.26:8000/api/pdfs?page=3"
+    },
+    "meta": {
+        "current_page": 2,
+        "from": 13,
+        "last_page": 3,
+        "path": "http://192.168.100.26:8000/api/pdfs",
+        "per_page": 12,
+        "to": 24,
+        "total": 35
+    }
+}
